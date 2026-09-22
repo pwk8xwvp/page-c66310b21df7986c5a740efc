@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "acdb577a380253a4aeb195f7",
+  "owner": "pwk8xwvp",
+  "repo": "page-c66310b21df7986c5a740efc",
+  "title": "在云端",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "c66310b21df7986c5a740efc",
+      "a": "在云端",
+      "b": "机场官网线路发布页",
+      "entity": "在云端",
+      "brand": "在云端",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "f56a5f2c36973f9eed38cddec92d2fb436cc783d0a97de32a649cef8883417e2",
+      "content": {
+        "primary_entity": "在云端",
+        "keyword1": "在云端",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_DESCRIPTION": "，专注跨境加速订阅服务，提供基础版、旗舰版与团队版三档套餐。基础版每月 100GB 流量，支持 3 台设备；旗舰版每月 300GB 流量，支持 5 台设备，含 IPLC 专线与流媒体解锁；团队版每月 1000GB 流量，支持 20 台设备，适合小型团队共享。按年付可享更优价格，客户端覆盖主流桌面与移动系统，订阅导入后即可使用。",
+          "AI_HERO_SUBTITLE": "多设备跨境加速订阅",
+          "AI_HERO_INTRO": "在云端为个人与团队提供跨境网络加速订阅，按流量与设备数量划分套餐。用户可根据日常用量选择基础版或旗舰版，团队协作可选团队版。订阅导入客户端后即可使用，支持主流操作系统。",
+          "AI_VISUAL_TITLE": "在云端加速订阅",
+          "AI_HIGHLIGHT_1": "三档套餐适配不同用量",
+          "AI_HIGHLIGHT_2": "支持多台设备同时在线",
+          "AI_HIGHLIGHT_3": "按年付享更优价格",
+          "AI_FEATURES_TITLE": "套餐与设备选择",
+          "AI_FEATURES_INTRO": "根据每月流量和在线设备数量选择套餐，按年付可降低月均成本。",
+          "AI_FEATURE_TITLE_1": "按流量选套餐",
+          "AI_FEATURE_TEXT_1": "基础版 100GB、旗舰版 300GB、团队版 1000GB，对应不同使用强度。",
+          "AI_FEATURE_TITLE_2": "按设备数选版本",
+          "AI_FEATURE_TEXT_2": "3 台、5 台、20 台三档设备上限，覆盖个人多终端到小型团队。",
+          "AI_FEATURE_TITLE_3": "按年付更划算",
+          "AI_FEATURE_TEXT_3": "基础版年付 ¥150、旗舰版 ¥350、团队版 ¥850，适合长期稳定使用。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLIENTS_INTRO": "根据设备系统选择对应客户端，并按客户端文档导入订阅。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "基础版 ¥15/月，旗舰版 ¥35/月，团队版 ¥85/月，按年付分别 ¥150、¥350、¥850。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_GUIDE_INTRO": "先选择套餐，再确认设备适配，最后按客户端文档配置订阅。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TEXT_1": "根据每月流量和在线设备数量，在基础版、旗舰版与团队版之间选择。",
+          "AI_STEP_TITLE_2": "确认适配",
+          "AI_STEP_TEXT_2": "查看所用系统是否有对应客户端，并确认设备数量在套餐上限内。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_STEP_TEXT_3": "安装客户端后，依照客户端文档导入订阅信息即可开始使用。",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "基础版和旗舰版的主要差别是什么？",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB 流量、支持 3 台设备，使用普通线路节点池；旗舰版每月 300GB 流量、支持 5 台设备，含 IPLC 专线和流媒体解锁。",
+          "AI_FAQ_QUESTION_2": "一个套餐可以同时几台设备用？",
+          "AI_FAQ_ANSWER_2": "基础版支持 3 台，旗舰版支持 5 台，团队版支持 20 台设备同时在线，可根据日常终端数量选择。",
+          "AI_FAQ_QUESTION_3": "按年付比按月付便宜多少？",
+          "AI_FAQ_ANSWER_3": "基础版年付 ¥150，相当于每月约 ¥12.5；旗舰版年付 ¥350，相当于每月约 ¥29；团队版年付 ¥850，相当于每月约 ¥70.8。",
+          "AI_FAQ_QUESTION_4": "团队版适合什么场景？",
+          "AI_FAQ_ANSWER_4": "团队版每月 1000GB 流量、支持 20 台设备，并提供 VIP 高带宽节点和企业定制路由，适合小型团队或多人协作使用。",
+          "AI_FAQ_QUESTION_5": "订阅怎么导入客户端？",
+          "AI_FAQ_ANSWER_5": "安装对应系统的客户端后，按客户端文档中的说明导入订阅信息，完成后即可在客户端内选择线路使用。",
+          "AI_CLOSING_TITLE": "按需选择套餐",
+          "AI_CLOSING_TEXT": "根据流量与设备数量挑好版本，按年付更省，导入客户端即可使用。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "hhpok.cn",
+    "host": "hhpok.cn"
+  },
+  "file_hashes": {
+    "index.html": "c7778d9035ef91c8fd7e22d59e110104d904eb35b7b04ed986922de6001b5edb",
+    "sitemap.xml": "b108a66fb56fffe3f08b37ce0bdeec32af33480769ecabeb529aa30c860c73af",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "eb483f1e02f1997b01860d8d5e3be20964a34daa73383b0f4ae056d0b9ae4938",
+    "robots.txt": "c9514c0aff327764096a1f01a9eba1f3220851d3c0960646bf0a92bb2de98401",
+    "ad2333f7f3bb8f7c7b85d5233d6190fe.txt": "216376bc78cc97c33c8c9aaf16a1ef730229918c3afca6c56dbafbb8a78e7fdb"
+  },
+  "revision": "c8d5193aa308d9f5bd50dc1d3dfc217b6c057c881383d7a881176428df1198ea"
+}
